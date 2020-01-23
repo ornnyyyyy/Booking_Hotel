@@ -1,0 +1,16 @@
+Room Type : Deluxe Twin
+	Description:  2 Twin Beds
+	       51 square meter room space
+		   Garden/Pool View
+	   	   Balcony
+	   	   Free Wifi in room
+	People Suggest: 2 people
+	Price: 50 $
+
+Room Type : Persidential Suit
+	Description:  104 square meter room space
+		   Private Pool
+		   Golf Course View
+		   Free Wifi in Room
+	People Suggest: 2 people
+	Price: 150 $

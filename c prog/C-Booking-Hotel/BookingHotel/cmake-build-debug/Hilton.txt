@@ -1,0 +1,15 @@
+Room Type : Superior Standard Zone
+	Description:  32 square meter room space
+		   Free Wifi
+	   	   20% discount for early Booking (before 14 days)
+	People Suggest: 2 people
+		        + 1 child(with extra bed for child)
+	Price: 1700 $
+
+Room Type : Superior Suite Stand Zone
+	Description:  32 square meter room space
+		   Free Wifi
+		   Free Breakfast for 2 people 
+	People Suggest: 2 people
+		        + 1 child(with extra bed for child)
+	Price: 2600 $	

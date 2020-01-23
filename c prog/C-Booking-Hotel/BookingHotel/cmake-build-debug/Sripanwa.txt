@@ -1,0 +1,30 @@
+Room Type : Penthouse
+	Description: 1 King bed
+	       140 square meter room space
+		   Welcome tropical fruit basket
+	   	   Access to our beautiful beach pool, fitness center, steam rooms and tennis courts
+	   	   Unlimited wireless broadband Internet in villa
+	   	   Refreshment towel and welcome drink upon arrival
+	People Suggest: 2 people
+	Price: 800 $
+
+Room Type : 4BR Residence Villa Ocean View
+	Description:  2 King beds
+	       350 square meter room space
+	       Refreshment towels and welcome drinks upon arrival
+		   Access to our beautiful Beach Pool, fitness center, steam rooms and tennis courts
+		   Unlimited wireless broadband Internet in villa
+		   In villa mini-bar, Nespresso machine and snacks replenished daily
+	People Suggest: 4 people
+	Price: 1500 $
+
+
+Room Type : 8BR Residence Villa Ocean View
+	Description:  4 King beds
+	       1600 square meter room space
+	       Refreshment towels and welcome drinks upon arrival
+		   Access to our beautiful Beach Pool, fitness center, steam rooms and tennis courts
+		   Unlimited wireless broadband Internet in villa
+		   In villa mini-bar, Nespresso machine and snacks replenished daily
+	People Suggest: 8 people
+	Price: 3200 $

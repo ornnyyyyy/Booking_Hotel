@@ -1,0 +1,3 @@
+C:/Users/Orn/CLionProjects/C-Booking-Hotel/BookingHotel/cmake-build-debug/CMakeFiles/BookingHotel.dir
+C:/Users/Orn/CLionProjects/C-Booking-Hotel/BookingHotel/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Orn/CLionProjects/C-Booking-Hotel/BookingHotel/cmake-build-debug/CMakeFiles/rebuild_cache.dir

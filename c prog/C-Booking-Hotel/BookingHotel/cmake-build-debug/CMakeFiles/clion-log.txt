@@ -1,0 +1,12 @@
+"C:\Program Files\JetBrains\CLion 2018.2.5\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Orn\CLionProjects\C-Booking-Hotel\BookingHotel
+-- The C compiler identification is GNU 7.2.0
+-- Check for working C compiler: C:/Program Files (x86)/mingw-w64/i686-7.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/gcc.exe
+-- Check for working C compiler: C:/Program Files (x86)/mingw-w64/i686-7.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/gcc.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Could NOT find SQLITE3 (missing: SQLITE3_LIBRARY) 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Orn/CLionProjects/C-Booking-Hotel/BookingHotel/cmake-build-debug

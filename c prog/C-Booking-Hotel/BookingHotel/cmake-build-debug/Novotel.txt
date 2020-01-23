@@ -1,0 +1,18 @@
+Room Type : Deluxe King Room with Pool Access
+	Description:  1 extra-large double bed
+	       38 square meter room space
+		   Boasting a spa bath and a direct pool access
+	   	   Balcony
+	   	   Free Wifi in room
+	People Suggest: 2 adults and 2 children
+	Price: 120 $
+
+Room Type : Family Suit
+	Description:  2 King bed in separate rooms
+	       102 square meter room space
+		   separate room for the parents and the children
+		   TV, arcade game
+		   Balcony
+           Free Wifi in room
+	People Suggest: 2 people and 2 children
+	Price: 280 $
